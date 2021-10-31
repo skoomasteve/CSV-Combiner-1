@@ -13,5 +13,7 @@
  - the combiner uses only the column headings of the first(alphabetical) csv file processed in the directory you pick, so either make sure each file has the same column headings OR place a dash or underscore at the beginning of the filename you'd like to use as the heading authority. 
  _--Because of this behaviour, this program can also be used as a tool to apply headings to multiple heading-less .csv files._
  
+ ___
+ 
 ![image](https://user-images.githubusercontent.com/43890114/139602608-2aaebd69-b8e9-4bc2-b903-de6dc0d16bf2.png)
 
