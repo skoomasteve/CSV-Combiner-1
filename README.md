@@ -12,4 +12,5 @@
  - the utility assumes the column headings are the same name and order across each input file  
  - the content from each file will be appended to the end of the previous file
  
-![image](https://user-images.githubusercontent.com/43890114/139602055-123ffb8f-17a3-43a6-8dad-5f6730123f3e.png)
+![image](https://user-images.githubusercontent.com/43890114/139602608-2aaebd69-b8e9-4bc2-b903-de6dc0d16bf2.png)
+
