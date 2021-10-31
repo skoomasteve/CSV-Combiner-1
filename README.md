@@ -1,6 +1,6 @@
 # CSV-Combiner
 
- ## A simple tool which combines all CSV files in a given directory and combines the values into a new output file. 
+ ## A simple tool which reads all CSV files in a given directory and combines the values into a new output file. 
  
  How to use:
   - run the .exe or .ps1 and choose the path where your files exist
